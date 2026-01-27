@@ -15,8 +15,7 @@ Jeg er **‘Sir’ Kasper Norden**, og her dokumenterer jeg min rejse i keglebil
 ### Mit digitale arkiv
 Jeg poster løbende opdateringer, videoer og illustrationer på min Facebook og YouTube. Men som alle ved, har sociale medier det med at lade indhold **blive begravet over tid**. Gode pointer, diagrammer og læringspunkter forsvinder hurtigt i mængden af nye opslag.
 
-> Denne blog fungerer som mit **permanente arkiv**. Her samler jeg mine opslag løbende, så de er nemme at finde tilbage til, søge i og lære af – både for min egen skyld og for din.
-{: .prompt-tip }
+Denne blog fungerer som mit **permanente arkiv**. Her samler jeg mine opslag løbende, så de er nemme at finde tilbage til, søge i og lære af – både for min egen skyld og for din.
 
 ### Viden skal være fri
 Jeg er af den faste overbevisning, at viden om billard skal være **gratis, nem og frit tilgængelig**. Sporten og fællesskabet vokser kun, hvis vi deler vores erfaringer og hjælper hinanden med at blive bedre, i stedet for at holde på de gode tips for os selv.
