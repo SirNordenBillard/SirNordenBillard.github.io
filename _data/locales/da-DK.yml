@@ -31,14 +31,15 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: Dette opslag er licenseret under :LICENSE_NAME af forfatteren.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-NC-SA 4.0
+    link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
   # Displayed in the footer
   brief: Nogle rettigheder forbeholdes.
   verbose: >-
     Medmindre andet er angivet, er opslag på denne side beskyttet
-    under Creative Commons Attribution 4.0 International (CC BY 4.0) licensen af forfatteren.
+    under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    (CC BY-NC-SA 4.0) licensen af forfatteren.
 
 # meta: Using the :THEME theme for :PLATFORM.
 

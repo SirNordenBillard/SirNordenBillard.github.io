@@ -6,9 +6,13 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+- type: youtube
+  icon: 'fa-brands fa-youtube'
+  url: 'https://www.youtube.com/@SirNordenBillard'                   # Fill with your Youtube profile link
+
 - type: facebook
   icon: 'fa-brands fa-facebook'
-  url: 'https://www.facebook.com/SirNordenBillard'                   # Fill with your Threads profile link
+  url: 'https://www.facebook.com/SirNordenBillard'                   # Fill with your Facebook profile link
 
 - type: email
   icon: "fas fa-envelope"
