@@ -34,7 +34,7 @@ Når jeg "open sourcer" min viden, skaber det en positiv spiral:
 ---
 
 ### Følg med her for de nyeste opdateringer
-Her kan du se træningskampe, turneringer og de daglige opslag:
+Her kan du se træningskampe, tips og opslag der kan hjælpe dig med at blive en bedre billardspiller:
 
 | Platform | Link |
 | :--- | :--- |
