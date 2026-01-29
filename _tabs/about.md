@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Om SirNorden Billard
+title: Velkommen til SirNorden Billard!
 icon: fas fa-info-circle
 order: 4
 ---
 
-# Velkommen til SirNorden Billard!
-{: .mt-4 }
 
 Jeg er **‘Sir’ Kasper Norden**, og her dokumenterer jeg min rejse i keglebillard - fra nybegynder til målet om forhåbentlig at nå eliteniveauet en dag.
 
