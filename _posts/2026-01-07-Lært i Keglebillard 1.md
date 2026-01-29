@@ -19,7 +19,7 @@ I stedet for at gentage fejlen og forvente et andet resultat, hvad så med at sp
 <div class="d-flex flex-column align-items-center">
   <img src="/assets/img/posts/Højspids-til-ny-direktør.png" class="w-100 shadow rounded" alt="Illustration af højspids">
   <em class="d-block text-center mt-2 text-muted">
-    Illustration: Sådan spiller du en højspids for at bevare det gode oplæg. Positionen er et direkte uddrag fra videoen nedenfor. Der er også lidt tekst om, hvordan rød til tider skal manipuleres med en smule skævt.
+    Illustration: Sådan spiller du en højspids for at bevare det gode oplæg. Positionen er et direkte uddrag fra videoen nedenfor. Der er også lidt tekst om, hvordan rød til tider skal manipuleres med en smule "skævt".
   </em>
 </div>
 
