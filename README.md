@@ -1,6 +1,6 @@
 # SirNorden Billard
 
-Mit digitale arkiv og blog om keglebillard. Her samler jeg instruktioner, videoer og diagrammer, så de ikke bliver begravet på de sociale medier.
+Mit digitale arkiv og blog om keglebillard. Her samler jeg instruktioner, videoer og illustrationer, så de ikke bliver begravet på de sociale medier.
 
 ### Besøg bloggen:
 **[sirnordenbillard.github.io](https://sirnordenbillard.github.io/)**
