@@ -2,7 +2,7 @@
 layout: page
 title: Velkommen til SirNorden Billard!
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 
