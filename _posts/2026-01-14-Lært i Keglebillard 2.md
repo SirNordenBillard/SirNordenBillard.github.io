@@ -2,7 +2,7 @@
 title: "Lært i Keglebillard #2"
 date: 2026-01-14 18:30:00 +0100
 categories: [Direktører]
-tags: [Direktører, Dobbelt højspids]
+tags: [Direktører, Dobbelt højspids, Giver en direktør]
 ---
 Lad os fortsætte, hvor vi slap sidst!
 Forestil dig situationen igen: Du har enten fået en direktør, men linjen fra sidste uge med højspidsen går ikke gennem keglefeltet, så det dessin kan ikke spilles. Det kan også være, at du er kommet godt i gang med en serie og skal have bande, men du har ikke vinklen på hvid til at komme videre.
@@ -28,6 +28,8 @@ Bruger vi denne linje og parallelforskyder den til midten af hvid, kan vi se, at
 
 {% include embed/youtube.html id='wzghWahqp8s' %}
 {: .mt-4 }
+
+Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/wzghWahqp8s)
 
 ---
 
