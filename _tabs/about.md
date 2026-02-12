@@ -2,7 +2,7 @@
 layout: page
 title: Velkommen til SirNorden Billard!
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
 
@@ -31,12 +31,22 @@ Når jeg "open sourcer" min viden, skaber det en positiv spiral:
 
 ---
 
-### Følg med her for de nyeste opdateringer
-Her kan du se træningskampe, tips og opslag der kan hjælpe dig med at blive en bedre billardspiller:
+### Følg rejsen her
+Her kan du se træningskampe, tips og opslag, der kan hjælpe dig med at blive en bedre billardspiller. Klik dig ind på de forskellige platforme herunder:
 
-| Platform | Link |
-| :--- | :--- |
-| **YouTube** | [SirNorden Billard](https://www.youtube.com/@SirNordenBillard) |
-| **Facebook** | [SirNorden Billard](https://www.facebook.com/SirNordenBillard) |
+<div class="d-flex flex-wrap gap-3 mt-3">
+  <a href="https://www.youtube.com/@SirNordenBillard" target="_blank" class="btn btn-outline-danger rounded-pill shadow-sm">
+    <i class="fab fa-youtube me-2"></i> YouTube
+  </a>
+  <a href="https://www.facebook.com/SirNordenBillard" target="_blank" class="btn btn-outline-primary rounded-pill shadow-sm">
+    <i class="fab fa-facebook me-2"></i> Facebook
+  </a>
+</div>
 
----
+<style>
+  /* Gør knapperne lidt mere interaktive */
+  .btn-outline-danger:hover, .btn-outline-primary:hover {
+    transform: translateY(-2px);
+    transition: transform 0.2s ease;
+  }
+</style>
