@@ -5,7 +5,6 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-
 Jeg er **‘Sir’ Kasper Norden**, og her dokumenterer jeg min rejse i keglebillard - fra nybegynder til målet om forhåbentlig at nå eliteniveauet en dag.
 
 ---
@@ -23,30 +22,54 @@ For at gøre denne vision til virkelighed, har jeg valgt at udgive mine opslag u
 ### Hvorfor "Open Source" giver mening i billard
 I softwareverdenen betyder *Open Source*, at alle kan se koden, lære af den og forbedre den. Jeg mener, at vi bør gøre det samme med sport.
 
-Når jeg "open sourcer" min viden, skaber det en positiv spiral:
-
-* **Ingen genopfinder hjulet:** Hvis jeg har knækket koden til hvordan et dessin spilles lettest muligt, hvorfor skal du så bruge timer på de samme fejl, som jeg begik?
-* **Fejlrettelse i fællesskab:** Når jeg deler mine noter, kan andre spillere måske se noget, jeg har overset.
-* **Hurtigere udvikling:** Ved at bygge videre på hinandens viden løfter vi det generelle niveau i sporten langt hurtigere, end hvis vi hver især trænede i hvert vores klublokale.
-
 ---
 
 ### Følg rejsen her
 Her kan du se træningskampe, tips og opslag, der kan hjælpe dig med at blive en bedre billardspiller. Klik dig ind på de forskellige platforme herunder:
 
 <div class="d-flex flex-wrap gap-3 mt-3">
-  <a href="https://www.youtube.com/@SirNordenBillard" target="_blank" class="btn btn-outline-danger rounded-pill shadow-sm">
+  <a href="https://www.youtube.com/@SirNordenBillard" target="_blank" class="btn btn-social-custom btn-social-yt">
     <i class="fab fa-youtube me-2"></i> YouTube
   </a>
-  <a href="https://www.facebook.com/SirNordenBillard" target="_blank" class="btn btn-outline-primary rounded-pill shadow-sm">
+  <a href="https://www.facebook.com/SirNordenBillard" target="_blank" class="btn btn-social-custom btn-social-fb">
     <i class="fab fa-facebook me-2"></i> Facebook
   </a>
 </div>
 
 <style>
-  /* Gør knapperne lidt mere interaktive */
-  .btn-outline-danger:hover, .btn-outline-primary:hover {
+  .btn-social-custom {
+    border: 2px solid !important;
+    background-color: transparent !important;
+    border-radius: 50px !important;
+    padding: 0.5rem 1.2rem !important;
+    font-weight: 600 !important;
+    transition: all 0.2s ease !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    text-decoration: none !important;
+  }
+
+  .btn-social-yt {
+    border-color: #ff0000 !important;
+    color: #ff0000 !important;
+  }
+
+  .btn-social-fb {
+    border-color: #0866ff !important;
+    color: #0866ff !important;
+  }
+
+.btn-social-custom:hover {
     transform: translateY(-2px);
-    transition: transform 0.2s ease;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1) !important;
+    filter: brightness(1.1);
+  }
+
+  .btn-social-yt:hover {
+    background-color: rgba(255, 0, 0, 0.05) !important;
+  }
+
+  .btn-social-fb:hover {
+    background-color: rgba(8, 102, 255, 0.05) !important;
   }
 </style>

@@ -15,7 +15,7 @@ Her er et udvalg af de hjemmesider og sociale medier, jeg selv følger tæt inde
       <div class="card-body d-flex flex-column">
         <div class="mb-3">
           <h3 class="card-title h4 mb-1" style="color: var(--link-color);">Billardskolen.dk</h3>
-          <span class="badge bg-success opacity-75">Anbefalet til instruktion</span>
+          <span class="badge badge-custom badge-success-outline">Anbefalet til instruktion</span>
         </div>
         <div class="custom-scroll mb-4" style="max-height: 180px; overflow-y: auto;">
           <p class="card-text text-muted small pe-2">
@@ -23,13 +23,13 @@ Her er et udvalg af de hjemmesider og sociale medier, jeg selv følger tæt inde
           </p>
         </div>
         <div class="mt-auto d-flex flex-wrap gap-2">
-          <a href="https://www.billardskolen.dk/" target="_blank" class="btn btn-sm btn-outline-secondary rounded-pill">
+          <a href="https://www.billardskolen.dk/" target="_blank" class="btn btn-sm btn-social btn-social-web">
             <i class="fas fa-globe me-1"></i> Website
           </a>
-          <a href="https://www.facebook.com/billardskolen" target="_blank" class="btn btn-sm btn-outline-primary rounded-pill">
+          <a href="https://www.facebook.com/billardskolen" target="_blank" class="btn btn-sm btn-social btn-social-fb">
             <i class="fab fa-facebook me-1"></i> Facebook
           </a>
-          <a href="https://www.youtube.com/@Billardskolen" target="_blank" class="btn btn-sm btn-outline-danger rounded-pill">
+          <a href="https://www.youtube.com/@Billardskolen" target="_blank" class="btn btn-sm btn-social btn-social-yt">
             <i class="fab fa-youtube me-1"></i> YouTube
           </a>
         </div>
@@ -42,7 +42,7 @@ Her er et udvalg af de hjemmesider og sociale medier, jeg selv følger tæt inde
       <div class="card-body d-flex flex-column">
         <div class="mb-3">
           <h3 class="card-title h4 mb-1" style="color: var(--link-color);">Billardforsjov</h3>
-          <span class="badge bg-info text-dark opacity-75">Anbefalet content creator</span>
+          <span class="badge badge-custom badge-info-outline">Anbefalet content creator</span>
         </div>
         <div class="custom-scroll mb-4" style="max-height: 180px; overflow-y: auto;">
           <p class="card-text text-muted small pe-2">
@@ -50,16 +50,16 @@ Her er et udvalg af de hjemmesider og sociale medier, jeg selv følger tæt inde
           </p>
         </div>
         <div class="mt-auto d-flex flex-wrap gap-2">
-          <a href="https://www.facebook.com/profile.php?id=61581713966041" target="_blank" class="btn btn-sm btn-outline-primary rounded-pill">
+          <a href="https://www.facebook.com/profile.php?id=61581713966041" target="_blank" class="btn btn-sm btn-social btn-social-fb">
             <i class="fab fa-facebook me-1"></i> Facebook
           </a>
-          <a href="https://www.instagram.com/billardforsjovstg" target="_blank" class="btn btn-sm btn-outline-info rounded-pill">
+          <a href="https://www.instagram.com/billardforsjovstg" target="_blank" class="btn btn-sm btn-social btn-social-insta">
             <i class="fab fa-instagram me-1"></i> Instagram
           </a>
-          <a href="https://www.youtube.com/@Billardforsjovstg" target="_blank" class="btn btn-sm btn-outline-danger rounded-pill">
+          <a href="https://www.youtube.com/@Billardforsjovstg" target="_blank" class="btn btn-sm btn-social btn-social-yt">
             <i class="fab fa-youtube me-1"></i> YouTube
           </a>
-          <a href="https://www.tiktok.com/@billard.for.sjov" target="_blank" class="btn btn-sm btn-outline-dark rounded-pill">
+          <a href="https://www.tiktok.com/@billard.for.sjov" target="_blank" class="btn btn-sm btn-social btn-social-tiktok">
             <i class="fab fa-tiktok me-1"></i> TikTok
           </a>
         </div>
@@ -69,21 +69,40 @@ Her er et udvalg af de hjemmesider og sociale medier, jeg selv følger tæt inde
 </div>
 
 <style>
+  .btn-social {
+    border: 2px solid !important;
+    background-color: transparent !important;
+    border-radius: 50px !important;
+    font-weight: 600 !important;
+    transition: all 0.2s ease !important;
+  }
+
+  .btn-social-web { border-color: #6c757d !important; color: #6c757d !important; }
+  .btn-social-fb { border-color: #0866ff !important; color: #0866ff !important; }
+  .btn-social-yt { border-color: #ff0000 !important; color: #ff0000 !important; }
+  .btn-social-insta { border-color: #e4405f !important; color: #e4405f !important; }
+  .btn-social-tiktok { border-color: var(--text-color) !important; color: var(--text-color) !important; }
+
+  .btn-social:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.1);
+    background-color: rgba(0,0,0,0.05) !important;
+  }
+
+  .badge-custom {
+    padding: 0.5em 0.8em !important;
+    border-radius: 50px !important;
+    font-weight: 600 !important;
+    border: 1px solid !important;
+  }
+  .badge-success-outline { background-color: rgba(40, 167, 69, 0.1) !important; border-color: #28a745 !important; color: #28a745 !important; }
+  .badge-info-outline { background-color: rgba(23, 162, 184, 0.1) !important; border-color: #17a2b8 !important; color: #17a2b8 !important; }
+
   .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 15px rgba(0,0,0,0.1) !important;
   }
-  .badge {
-    font-size: 0.75rem;
-    font-weight: 500;
-  }
-  /* Styling af scrollbar så den er diskret */
-  .custom-scroll::-webkit-scrollbar {
-    width: 4px;
-  }
-  .custom-scroll::-webkit-scrollbar-track {
-    background: transparent;
-  }
+  .custom-scroll::-webkit-scrollbar { width: 4px; }
   .custom-scroll::-webkit-scrollbar-thumb {
     background-color: rgba(0,0,0,0.1);
     border-radius: 10px;

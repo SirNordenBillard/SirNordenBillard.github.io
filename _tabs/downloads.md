@@ -13,9 +13,9 @@ order: 5
           <div class="d-flex justify-content-between align-items-start">
             <div>
               <h3 class="card-title h4 mb-1" style="color: var(--link-color);">Billardbord Skabelon</h3>
-              <span class="badge bg-secondary opacity-75">Print og tegn selv</span>
+              <span class="badge badge-custom badge-download">Print og tegn selv</span>
             </div>
-            <i class="fas fa-file-image fa-2x text-danger opacity-50"></i>
+            <i class="fas fa-file-image fa-2x text-info opacity-50"></i>
           </div>
         </div>
         <div class="custom-scroll mb-4" style="max-height: 150px; overflow-y: auto;">
@@ -24,7 +24,7 @@ order: 5
           </p>
         </div>
         <div class="mt-auto text-center">
-          <a href="/assets/downloads/Billardbord-Skabelon.png" download class="btn btn-sm btn-primary w-100 rounded-pill shadow-sm mb-2">
+          <a href="/assets/downloads/Billardbord-Skabelon.png" download class="btn btn-sm btn-download-outline w-100 rounded-pill shadow-sm mb-2">
             <i class="fas fa-download me-2"></i> Download (PNG)
           </a>
           <small class="text-muted" style="font-size: 0.65rem;">Licens: CC BY-NC-SA 4.0</small>
@@ -35,13 +35,38 @@ order: 5
 </div>
 
 <style>
-  .card:hover {
+  .btn-download-outline {
+    border: 2px solid #007bff !important;
+    color: #007bff !important;
+    background-color: transparent !important;
+    font-weight: 600 !important;
+    transition: all 0.2s ease !important;
+  }
+
+  .btn-download-outline:hover {
+    background-color: #007bff !important;
+    color: #fff !important;
+    transform: translateY(-2px);
+  }
+
+.badge-custom {
+    padding: 0.5em 0.8em !important;
+    border-radius: 50px !important;
+    font-weight: 600 !important;
+    border: 1px solid !important;
+  }
+  
+  .badge-download {
+    background-color: rgba(108, 117, 125, 0.1) !important;
+    border-color: #6c757d !important;
+    color: #6c757d !important;
+  }
+
+.card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 15px rgba(0,0,0,0.1) !important;
   }
-  
-  /* Styling af scrollbar */
-  .custom-scroll::-webkit-scrollbar {
+    .custom-scroll::-webkit-scrollbar {
     width: 4px;
   }
   .custom-scroll::-webkit-scrollbar-track {
