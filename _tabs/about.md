@@ -38,6 +38,7 @@ Her kan du se træningskampe, tips og opslag, der kan hjælpe dig med at blive e
 
 <style>
   .btn-social-custom {
+    margin-right: 4px !important;
     border: 2px solid !important;
     background-color: transparent !important;
     border-radius: 50px !important;
