@@ -70,6 +70,8 @@ Her er et udvalg af de hjemmesider og sociale medier, jeg selv følger tæt inde
 
 <style>
   .btn-social {
+    margin-right: 4px !important;
+    margin-bottom: 8px !important;
     border: 2px solid !important;
     background-color: transparent !important;
     border-radius: 50px !important;
