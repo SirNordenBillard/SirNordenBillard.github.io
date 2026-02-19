@@ -90,10 +90,12 @@ Her er et udvalg af de hjemmesider og sociale medier, jeg selv følger tæt inde
   }
 
   .badge-custom {
-    padding: 0.5em 0.8em !important;
+    padding: 0.2em 0.6em !important;
+    font-size: 0.7rem !important;
     border-radius: 50px !important;
     font-weight: 600 !important;
     border: 1px solid !important;
+    display: inline-block !important;
   }
   .badge-success-outline { background-color: rgba(40, 167, 69, 0.1) !important; border-color: #28a745 !important; color: #28a745 !important; }
   .badge-info-outline { background-color: rgba(23, 162, 184, 0.1) !important; border-color: #17a2b8 !important; color: #17a2b8 !important; }

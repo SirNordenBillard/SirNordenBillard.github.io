@@ -46,9 +46,11 @@ order: 4
     background-color: rgba(0, 123, 255, 0.15) !important;
     border: 1px solid #007bff !important;
     color: #007bff !important;
-    padding: 0.4em 0.8em !important;
-    font-size: 0.75rem !important;
+    padding: 0.2em 0.6em !important;
+    font-size: 0.7rem !important;
+    font-weight: 600 !important;
     border-radius: 50px !important;
+    display: inline-block !important;
   }
 
   .card:hover {
