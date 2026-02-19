@@ -50,10 +50,12 @@ order: 5
   }
 
 .badge-custom {
-    padding: 0.5em 0.8em !important;
+    padding: 0.2em 0.6em !important;
+    font-size: 0.7rem !important;
     border-radius: 50px !important;
     font-weight: 600 !important;
     border: 1px solid !important;
+    display: inline-block !important;
   }
   
   .badge-download {

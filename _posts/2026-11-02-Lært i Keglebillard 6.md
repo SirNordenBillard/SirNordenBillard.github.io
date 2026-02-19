@@ -23,9 +23,9 @@ Men lad os se på den egentlige løsning, det man faktisk kan kalde den perfekte
 Vi skal vende situationen på hovedet. Hvis vi tager udgangspunkt i billedet, har vi netop en af de her tværbal situationer, hvor man normalt har en tendens til at spille med venstreskæv. 
 
 <div class="d-flex flex-column align-items-center">
-  <img src="/assets/img/posts/Den-perfekte-opsamlingsbal.png" class="w-100 shadow rounded" alt="Illustration af den beskrevne medløbstværbal.">
+  <img src="/assets/img/posts/Den-perfekte-opsamlingsbal.png" class="w-100 shadow rounded" alt="Illustration af den beskrevne tværbal til opsamling.">
   <em class="d-block text-center mt-2 text-muted">
-    Illustration af den beskrevne medløbstværbal.
+    Illustration af den beskrevne tværbal til opsamling.
   </em>
 </div>
 
