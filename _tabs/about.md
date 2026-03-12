@@ -10,7 +10,7 @@ Jeg er **‘Sir’ Kasper Norden**, og her dokumenterer jeg min rejse i keglebil
 ---
 
 ### Mit digitale arkiv
-Jeg poster løbende opdateringer, videoer og illustrationer på min Facebook og YouTube. Men som alle ved, har sociale medier det med at lade indhold **blive begravet over tid**. Gode pointer, diagrammer og læringspunkter forsvinder hurtigt i mængden af nye opslag.
+Jeg poster løbende opdateringer, videoer og illustrationer på min Facebook og YouTube. Men som alle ved, har sociale medier det med at lade indhold **blive begravet over tid**. Gode pointer, diagrammer og viden forsvinder hurtigt i mængden af nye opslag.
 
 Denne side fungerer som mit **permanente arkiv**. Her samler jeg mine opslag løbende, så de er nemme at finde tilbage til, søge i og lære af – både for min egen skyld og for din.
 
