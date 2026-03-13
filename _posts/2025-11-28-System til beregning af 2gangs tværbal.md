@@ -3,6 +3,7 @@ title: "System til beregning af 2.-gangs tværbal"
 date: 2025-11-28 21:09:00 +0100
 categories: [Tværbal]
 tags: [Dobbelt tværbal, System]
+permalink: /posts/system-2gangs-tvaerbal/
 ---
 Her er et system til 2.-gangs tværbal, som jeg har udviklet i samarbejde med min gode ven Jimmy Lauridsen  fra [Billardskolen.dk](https://www.facebook.com/billardskolen). Det er baseret på et lignende system til, at [beregne tværbal](https://www.billardskolen.dk/2025/07/28/diamantsystem-til-tvaerballer) ved hjælp af diamanterne.
 

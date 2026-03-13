@@ -39,7 +39,7 @@ order: 4
           </p>
         </div>
         <div class="mt-auto">
-          <a href="/posts/System-til-beregning-af-2gangs-tv%C3%A6rbal" class="btn btn-sm btn-custom-outline w-100 rounded-pill shadow-sm">
+          <a href="/posts/system-2gangs-tvaerbal" class="btn btn-sm btn-custom-outline w-100 rounded-pill shadow-sm">
             <i class="fas fa-eye me-2"></i> Se systemet
           </a>
         </div>
