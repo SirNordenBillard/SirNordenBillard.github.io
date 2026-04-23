@@ -53,9 +53,6 @@ Her er et udvalg af de hjemmesider og sociale medier, jeg selv følger tæt inde
           <a href="https://www.facebook.com/profile.php?id=61581713966041" target="_blank" class="btn btn-sm btn-social btn-social-fb">
             <i class="fab fa-facebook me-1"></i> Facebook
           </a>
-          <a href="https://www.instagram.com/billardforsjovstg" target="_blank" class="btn btn-sm btn-social btn-social-insta">
-            <i class="fab fa-instagram me-1"></i> Instagram
-          </a>
           <a href="https://www.youtube.com/@Billardforsjovstg" target="_blank" class="btn btn-sm btn-social btn-social-yt">
             <i class="fab fa-youtube me-1"></i> YouTube
           </a>
