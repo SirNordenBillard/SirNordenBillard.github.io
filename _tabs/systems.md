@@ -30,6 +30,26 @@ order: 4
     <div class="card h-100 shadow-sm border-0" style="border-radius: 12px; background-color: var(--card-bg); transition: transform 0.2s ease;">
       <div class="card-body d-flex flex-column">
         <div class="mb-3">
+          <h3 class="card-title h4 mb-1" style="color: var(--link-color);">Tredjedel-systemet</h3>
+          <span class="badge badge-system">Tværbal</span>
+        </div>
+        <div class="custom-scroll mb-4" style="max-height: 120px; overflow-y: auto;">
+          <p class="card-text text-muted small pe-2">
+            Her finder du nogle brugbare grundlinjer, som du kan bruge, når du skal spille tværbal, men er i tvivl om, hvor du skal ramme.
+          </p>
+        </div>
+        <div class="mt-auto">
+          <a href="/posts/Tredjedel-systemet-til-førstegangs-tværbal" class="btn btn-sm btn-custom-outline w-100 rounded-pill shadow-sm">
+            <i class="fas fa-eye me-2"></i> Se systemet
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card h-100 shadow-sm border-0" style="border-radius: 12px; background-color: var(--card-bg); transition: transform 0.2s ease;">
+      <div class="card-body d-flex flex-column">
+        <div class="mb-3">
           <h3 class="card-title h4 mb-1" style="color: var(--link-color);">System til 2.-gangs tværbal</h3>
           <span class="badge badge-system">Tværbal</span>
         </div>
