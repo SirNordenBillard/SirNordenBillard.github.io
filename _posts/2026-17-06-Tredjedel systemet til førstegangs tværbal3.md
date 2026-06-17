@@ -1,5 +1,5 @@
 ---
-title: "Tredjedel systemet til førstegangs tværbal (test opslag)"
+title: "Tredjedel systemet til førstegangs tværbal (test opslag - intet nyt)"
 date: 2026-06-17 12:00:00 +0100
 categories: [Tværbal]
 tags: [Tværbal, System]
