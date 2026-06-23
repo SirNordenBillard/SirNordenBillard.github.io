@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Mine Systemer
+title: Systemer
 icon: fas fa-diagram-project
 order: 4
 ---
-
+---
+### Mine Systemer
 <div class="row g-4 mt-2">
   <div class="col-md-6">
     <div class="card h-100 shadow-sm border-0" style="border-radius: 12px; background-color: var(--card-bg); transition: transform 0.2s ease;">
@@ -46,6 +47,12 @@ order: 4
       </div>
     </div>
   </div>
+</div>
+
+---
+
+### Samarbejde
+<div class="row g-4 mt-2">
   <div class="col-md-6">
     <div class="card h-100 shadow-sm border-0" style="border-radius: 12px; background-color: var(--card-bg); transition: transform 0.2s ease;">
       <div class="card-body d-flex flex-column">
@@ -67,6 +74,7 @@ order: 4
     </div>
   </div>
 </div>
+
 
 <style>
   .btn-custom-outline {
