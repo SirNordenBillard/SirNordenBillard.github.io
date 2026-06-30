@@ -40,7 +40,7 @@ order: 4
           </p>
         </div>
         <div class="mt-auto">
-          <a href="/posts/Tredjedel-systemet-til-førstegangs-tværbal" class="btn btn-sm btn-custom-outline w-100 rounded-pill shadow-sm">
+          <a href="/posts/Tredjedel-systemet-til-1gangs-tvaerbal/" class="btn btn-sm btn-custom-outline w-100 rounded-pill shadow-sm">
             <i class="fas fa-eye me-2"></i> Se systemet
           </a>
         </div>

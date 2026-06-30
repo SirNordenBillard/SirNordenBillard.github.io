@@ -3,6 +3,7 @@ title: "Tredjedel systemet til førstegangs tværbal"
 date: 2026-06-13 12:00:00 +0100
 categories: [Tværbal]
 tags: [Tværbal, System]
+permalink: /posts/Tredjedel-systemet-til-1gangs-tvaerbal/
 ---
 Så kom tiden endelig til at dele noget, jeg har arbejdet på i et langt stykke tid efterhånden.
 
