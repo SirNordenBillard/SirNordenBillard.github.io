@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #1"
 date: 2026-01-07 18:30:00 +0100
 categories: [Direktører]
 tags: [Direktører, Højspids, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK1m.webp
+  alt: Følg med og lær, hvordan du også kan spille en højspids på en direktør, så du igen får et godt oplæg bagefter.
 ---
 Det sker, at jeg af og til ser en billardkamp eller to - alt lige fra folk, der træner i klubben, til streams på YouTube eller kampe på nabobordene, når jeg selv er ude at spille. Det er et bredt spektrum af spillere, lige fra de helt unge til oldboys (og "oldladies", må det vel hedde...). Der er mange niveauer, lige fra elite til nybegynder.
 Dette opslag henvender sig nok mest til sidstnævnte: nybegynderen eller dem, der bare ikke har haft muligheden endnu, men som gerne vil lære noget nyt. En af de ting, der altid er blevet pointeret for mig, er: "Du skal huske, hvor du kommer fra". Da jeg startede, havde jeg lige over 2 i snit. Det er dér, jeg kommer fra. I takt med at jeg selv er blevet bedre, kan jeg se, at de fejl, jeg selv begik, faktisk bliver begået på daglig basis af mange spillere. Skal vi ikke få rettet de fejl i fællesskab, så flere kan opleve glæden ved at stige i snit?

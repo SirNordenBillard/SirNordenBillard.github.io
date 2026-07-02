@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #19"
 date: 2026-05-13 18:30:00 +0100
 categories: [Tværbal]
 tags: [Tværbal]
+image:
+  path: /assets/img/miniature/LIK19m.webp
+  alt: Følg med og lær, hvorfor du skal spille en tværbal og trække den røde med rundt om keglefeltet i stedet for at spille direktør.
 ---
 I denne uge skal vi se på et dessin, som nogen nok vil klø sig selv i håret over, men som jeg håber, folk hurtigt vil kunne se meningen med. Det kræver, at man er åben for at ændre både mentalitet og tilgang til spillet. Det kan være svært, men det er nødvendigt, hvis man vil lære at tænke flere stød frem og opbygge de helt store serier. Vi har tidligere set på, hvordan vi kan bruge en direktør til at give os en ny direktør - i dag tager vi skridtet videre: Vi spiller slet ikke direktøren som en direktør, men derimod som en tværbal.
 

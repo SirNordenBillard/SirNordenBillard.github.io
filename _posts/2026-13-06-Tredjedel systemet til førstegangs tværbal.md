@@ -4,6 +4,9 @@ date: 2026-06-13 12:00:00 +0100
 categories: [Tværbal]
 tags: [Tværbal, System]
 permalink: /posts/Tredjedel-systemet-til-1gangs-tvaerbal/
+image:
+  path: /assets/img/miniature/TVÆRBALSYSTEMm.webp
+  alt: Grundlinjerne til en 1.-gangs tværbal, der går ca. til midterste kegle.
 ---
 Så kom tiden endelig til at dele noget, jeg har arbejdet på i et langt stykke tid efterhånden.
 

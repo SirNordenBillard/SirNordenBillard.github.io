@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #3"
 date: 2026-01-21 18:30:00 +0100
 categories: [Dobbeltspids]
 tags: [Dobbeltspids, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK3m.webp
+  alt: Følg med og lær, hvorfor du skal spille en dobbeltspids i stedet for en langbal i denne situation.
 ---
 Det her er helt sikkert en situation, som rigtig mange kender - jeg har i hvert fald selv stået i den mange gange!
 Forestil dig, at du har en hvid bal liggende foran keglefeltet. Det er jo mega fedt, for det er en potentiel "direktør" i næste stød. Den anden hvide ligger i den ene side af bordet, og den røde ligger ikke så langt derfra. Nu tænker du: "Nu skal jeg satme sætte den langbal og score nogle point - det her er chancen!"

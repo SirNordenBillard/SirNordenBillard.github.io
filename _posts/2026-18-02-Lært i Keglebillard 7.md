@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #7"
 date: 2026-02-18 18:30:00 +0100
 categories: [1.-gangs spids]
 tags: [Spids, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK7m.webp
+  alt: Følg med og lær, hvordan du spiller en blød 1.-gangs spids, der giver oplæg på samme bal igen.
 ---
 Ingen historie uden en lille indrømmelse først... Jeg elsker en god show-bal! Jeg snakker ikke om en bal, hvor man bare smækker til dem og håber på det bedste. Jeg snakker om den kontrollerede bal, hvor både rød og hvid får lov at arbejde, og hvor man virkelig kan se, at der er spillet med omtanke. Gør det noget, at der samtidig er store mængder skævt eller top/bund-effekt i? Absolut ikke - det gør det bare endnu mere lækkert, specielt når man samtidig kan kontrollere det!
 Og så lige endnu en indrømmelse... Faktisk er det her et dessin, jeg ikke selv spiller specielt tit i kamp. Ikke fordi jeg ikke kan - jeg rammer den faktisk de fleste gange, men fordi der er en vis risiko forbundet med det (dem gennemgår vi længere nede). Lige nu spiller jeg den primært, når jeg er foran, og ikke i helt tætte kamp. Men det er et af mine store sommerprojekter; de sidste småfejl skal trænes væk, for det er et fantastisk brugbart og flot dessin, når det spilles rigtigt!

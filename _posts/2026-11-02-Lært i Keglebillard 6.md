@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #6"
 date: 2026-02-11 18:30:00 +0100
 categories: [Tværbal]
 tags: [Tværbal, Opsamlingsbal, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK6m.webp
+  alt: Følg med og lær, hvordan du kan spille opsamlingstværballen, som kan blive starten på en stor serie.
 ---
 Som det efterhånden er tradition, skal vi lige have en lille historietime som optakt. Lad os starte med en situation, de fleste nok har stået i...og jeg må nok indrømme, at jeg nok også selv har stået der...et par gange....eller to...eller det mere:
 Forestil dig, at du kommer til bordet i en kamp og har en tværbal, der ligger ubehageligt langt nede mod kortbanden. Den anden hvide ligger på modsatte halvdel af bordet, og rød ligger enten lige på hvid eller en smule længere nede. Du vurderer hurtigt, at den eneste måde at få rød op mod keglerne på er ved at ramme den på siden mod kortbanden.

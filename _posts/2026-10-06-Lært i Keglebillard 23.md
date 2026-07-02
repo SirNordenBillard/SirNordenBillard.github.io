@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #23"
 date: 2026-06-10 18:30:00 +0100
 categories: [Tværbal]
 tags: [Tværbal, Taktik]
+image:
+  path: /assets/img/miniature/LIK23m.webp
+  alt: Følg med og lær, hvordan man spiller en tværbal i passende tempo, så den kan komme ud på midten af bordet.
 ---
 I denne uge har vi et af de dessiner, der nok mere skal ses som et godt råd, eller et taktisk valg til at gøre billardspillet lettere... og det er der brug for, det er jo svært nok i forvejen for os alle! Og selvom dette opslag primært er ment til fortsat keglebillard, så kan skomarspillere sagtens læse med, for samme teknik kan bruges, hvis tempokontrol og placering af hvid på midten af bordet efter en tværbal er det afgørende element for et sort oplæg!
 

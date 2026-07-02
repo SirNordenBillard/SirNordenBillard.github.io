@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #22"
 date: 2026-06-03 18:30:00 +0100
 categories: [Kvarter]
 tags: [Kvarter, Problemløsere]
+image:
+  path: /assets/img/miniature/LIK22m.webp
+  alt: Følg med og lær, hvordan man spiller en opsamlingskvart, hvis den hvide er kommet ud af position oppe ved keglerne.
 ---
 I denne uge skal vi se på endnu et problem, som ofte opstår, specielt når man spiller fortsat. Vi kender nemlig alle situationen: De hvide er kommet ind til keglerne, og det går faktisk rigtig godt, der bliver lavet nogle point. Det går faktisk så godt, at man tænker "Hey, det her er jo fandme nemt, NEXT STOP ELITEDIVISIONEN!!", og så sker det... Et lille øjebliks svigtende koncentration eller sløseri, og så har man stødt for hårdt eller ramt en smule skævt, og nu har man ikke længere en snitbal. Det, der ofte sker, er, at rød egentlig ikke kommer nok rundt til, at man kan snitte hvid igennem igen. Man får dermed en situation, hvor selv hvis man snitter tyndt, kan man ikke tage den bagerste kegle, fordi den hvide er kommet for langt om på siden af keglefeltet.
 

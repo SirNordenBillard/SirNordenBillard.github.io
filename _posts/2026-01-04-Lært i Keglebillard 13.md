@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #13"
 date: 2026-04-01 18:30:00 +0100
 categories: [1.-gangs spids]
 tags: [Spids, Godt at vide]
+image:
+  path: /assets/img/miniature/LIK13m.webp
+  alt: Følg med og lær, hvordan man spiller en hård 1.-gangs spids, der stejler tilbage og bliver spilbar igen.
 ---
 Ugens dessin er et af de helt simple, men sjovt nok er det også et, som ikke særlig mange ved er muligt, eller også er der bare folk, der ikke indser de kan spille det. Jeg er faktisk i tvivl om, hvorvidt jeg egentlig skal kalde det et dessin eller bare et overordnet godt råd. Samtidig er der ved at gå lidt vane i det her, for der er faktisk heller ikke nogen specifik historie forbundet til dessinet i denne uge. Det var noget af det første, jeg lærte, så jeg husker ikke omstændighederne præcis, men chancerne for, at det er noget, Jimmy Lauridsen har fortalt mig i en af vores utallige træninger, er meget store.
 

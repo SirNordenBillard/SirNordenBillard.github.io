@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #18"
 date: 2026-05-06 18:30:00 +0100
 categories: [Direktører]
 tags: [Direktører, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK18m.webp
+  alt: Følg med og lær, hvordan man kan spille en direktør foran keglefeltet lige op og ned af bordet og sende den røde, med undenom til ny direktør.
 ---
 Som jeg nævnte i sidste uge, ville der inden for den nærmeste fremtid komme et dessin til de situationer, hvor hvid ligger lige foran keglefeltet med en relativt lille vinkel. Det blev så allerede i denne uge! Hvis man skal bruge den præcise reference, nævnte jeg det som en mulig løsning, hvis man var kommet til at støde sin "tværbal-direktør" en smule for hårdt, så den hvide endte inde på midten foran keglerne. Så i dag får I et relativt kort opslag med et dessin, som alle kan lære, og som er utroligt brugbart i mange situationer. I en situation, hvor hvid ligger lige foran keglefeltet uden den store vinkel, kan det ofte skabe problemer for det efterfølgende oplæg. Bevares, hvis hvid ligger meget tæt på, kan man stadig snitte tyndt og komme udenom keglefeltet, men der er også situationer, hvor enten afstanden eller evnen til at snitte helt tyndt driller. Så... findes der et alternativ?
 

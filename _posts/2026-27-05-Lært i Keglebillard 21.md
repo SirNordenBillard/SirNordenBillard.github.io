@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #21"
 date: 2026-05-27 18:30:00 +0100
 categories: [Direktører]
 tags: [Direktører]
+image:
+  path: /assets/img/miniature/LIK21m.webp
+  alt: Følg med og lær, hvordan en omvendt højspids kan hjælpe dig med at bevare position.
 ---
 Ugens dessin er endnu et lille kort direktør dessin, der kan bruges hvis man absolut SKAL i bande.
 Vi kender alle situationen, man har ikke fået bande på forrige stød og nu står man så med en direktør hvor man er nødsaget til at få bande hvis man vil fortsætte, der er ikke lige noget standard dessin som passer, hvad gør man så? man vil jo gerne undgå at smide den ene bal helt væk nu da man har fået dem spillet nogenlunde i position. Hvis man skal se et eksempel på sådan en situation så kig på illustrationen nedenfor, det er den samme som spilles i videoen.

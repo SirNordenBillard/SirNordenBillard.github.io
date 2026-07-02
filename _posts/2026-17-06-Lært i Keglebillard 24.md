@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #24"
 date: 2026-06-17 18:30:00 +0100
 categories: [Kvarter]
 tags: [Medløbskvart, Taktik]
+image:
+  path: /assets/img/miniature/LIK24m.webp
+  alt: Følg med og lær, hvordan man spiller en medløbskvart til dobbeltstilling, samt hvorfor man skal vælge medløbskvarten, når man har bal i hånd og den ene bal er i langbanden.
 ---
 ## Den hurtige version
 Udnyt bal i hånd til at spille en medløbskvart til tempo - det giver en dobbeltstilling på kun ét stød. Du lægger blot rød en halv bal længere inde end hvid og støder ligeud, så du rammer halv bal.

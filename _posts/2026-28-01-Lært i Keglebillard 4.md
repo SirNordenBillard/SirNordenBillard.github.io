@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #4"
 date: 2026-01-28 18:30:00 +0100
 categories: [Tværbal]
 tags: [Tværbal, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK4m.webp
+  alt: Følg med og lær, hvordan du kan spille den røde med rundt på en tværbal, så du kan få muligheden for en direktør efterfølgende.
 ---
 Nu har jeg efterhånden opstillet et par situationer gennem mine opslag, som jeg gætter på, at mange på en eller anden måde har kunnet genkende fra eget spil. Nu kommer der en ny, for jeg er sikker på, at rigtig mange også kender det følgende scenarie:
 Du står med en tværbal. Enten er du lige kommet til bordet, eller også har du selv spillet dig til den. Den anden hvide ligger oppe på den modsatte halvdel af bordet, og tværbal er det eneste, du kan spille – så det er det dessin, du vælger. Du starter med at stille dig til rette, hvorefter du lige får brokket dig over, at en tværbal er sværere, end den ser ud, og insisterer på, at det er grunden til, at mange kalder dem "sværbal". Du husker dog bagefter, at de faktisk ikke er så svære alligevel, fordi du havde set et fantastisk opslag fra [The Teacher - Billardskolen.dk](https://www.facebook.com/billardskolen/posts/pfbid02zWE1KwU5cQRbhv5VENzRW4GmnNi2DdPXmPGnvuhEn2nbx8oXvmSnX2WTw96NvWcFl)  med et fint system, så du kan beregne, hvor du skal ramme sådan en tværbal.

@@ -3,6 +3,9 @@ title: "Fjerdedel sytemet til langbal"
 date: 2025-10-29 16:11:00 +0100
 categories: [Langbal]
 tags: [Langbal, System]
+image:
+  path: /assets/img/miniature/LANGBALSYSTEMm.webp
+  alt: Grundlinjerne til en 1.-gangs langbal, der går til den forreste kegle.
 ---
 For over et halvt år siden - nok endda tilbage i starten af året - gik jeg og spillede med min gode ven Jimmy Lauridsen. Der lagde han mærke til, at jeg pludselig var begyndt at ramme langt flere langbal’er end jeg tidligere havde gjort. Ikke at jeg ikke kunne ramme dem før, men der var kommet langt større sikkerhed på - ikke kun de nemme, men også de mere umulige.
 Han lagde samtidig mærke til, at når jeg skulle spille en langbal, så havde jeg en fast rutine, som jeg gennemgik, som om jeg gik og målte noget op visuelt, inden jeg stødte. Han spurgte, om jeg havde fået mig et system til det, og ja, det havde jeg - og jeg havde endda selv fundet på det, fordi jeg havde set en sammenhæng. Han spurgte mig så, om jeg ikke ville skrive det ned, så han kunne lære det og dele det med andre, når han var ude at instruere… Den proces tog mig så lige 7-10 måneder… ooopsie.

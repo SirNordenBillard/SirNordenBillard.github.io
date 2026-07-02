@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #16"
 date: 2026-04-22 18:30:00 +0100
 categories: [Rødbal]
 tags: [Rødbal]
+image:
+  path: /assets/img/miniature/LIK16m.webp
+  alt: Følg med og lær, hvordan man kan spille en 5-bande rødbal, der samtidig har mulighed for at komme som langbal, og samtidig have en chance for at give en direktør.
 ---
 Denne uges dessin er faktisk en smule i familie med den skolebal, vi gennemgik i [opslaget fra d. 25. februar](/posts/Lært-i-Keglebillard-8). Har man ikke allerede set den, vil jeg foreslå, at man lige gennemgår den bagefter! Denne version lærte jeg for relativt nylig, da jeg tog et lille hyggespil 3-bande carambole med [Jesper Jørgensen](https://www.instagram.com/mr_joergensen91) fra vores 2. divisionshold. Da Jesper er en rigtig flink og klog mand, betød det selvfølgelig også lidt læring, der kunne tages med over til keglebordet. Hvis der sidder nogen og tænker på resultatet af det lille hyggespil, så er det ikke noget, vi behøver at fokusere på - men har man sat sine penge på Jesper...... så har man i hvert fald valgt forkert!
 

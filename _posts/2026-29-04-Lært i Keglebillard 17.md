@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #17"
 date: 2026-04-29 18:30:00 +0100
 categories: [Direktører]
 tags: [Direktører, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK17m.webp
+  alt: Følg med og lær, hvordan man kan spille en direktør på siden af keglefeltet over i langbanden, ligesom en tværbal, hvis man skal have bande.
 ---
 I denne uge skal vi kigge på en ny situation fra direktør-spillet, som opstår ret tit. Det er en situation, der er forholdsvis simpel at løse meget fordelagtigt uden det store hokus pokus, så lad os hoppe direkte ud i det.
 

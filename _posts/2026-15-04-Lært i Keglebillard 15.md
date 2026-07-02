@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #15"
 date: 2026-04-15 18:30:00 +0100
 categories: [Tværbal]
 tags: [Tværbal, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK15m.webp
+  alt: Følg med og lær, hvordan man kan spille en underhåndstværbal kontrolleret med skævt til en direktør.
 ---
 I denne uge skal vi se på en situation, som de fleste nok kender: Det er en helt standard underhåndstværbal. De fleste har set den rigtig mange gange, og de fleste kan også score point på den - men det er faktisk sjældent, at folk får en direktør bagefter. Oftest ender det med, at der ligger en ny underhåndstværbal. Men der findes faktisk et lille trick, man kan bruge i nogle tilfælde, så der er mulighed for at få en direktør i stedet. Og det er jo trods alt sjovere at få en direktør!
 

@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #20"
 date: 2026-05-20 18:30:00 +0100
 categories: [Rødbal]
 tags: [Rødbal, Taktik]
+image:
+  path: /assets/img/miniature/LIK20m.webp
+  alt: Følg med og lær, hvorfor du skal spille positionsrødt, når du har muligheden for det.
 ---
 Denne uges dessin er virkelig kort, men det er virkelig brugbart. Jeg stillede jo en lille udfordring i bunden af sidste uges opslag, og det er nemlig det, vi skal spille videre fra i dag. Så har man ikke set sidste uges [opslag fra d. 13. maj](/posts/Lært-i-Keglebillard-19), kan jeg anbefale lige at drible forbi det også, når man har læst dette opslag.
 

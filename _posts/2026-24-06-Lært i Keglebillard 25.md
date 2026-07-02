@@ -1,8 +1,11 @@
 ---
 title: "Lært i Keglebillard #25"
-date: 2026-06-17 18:30:00 +0100
+date: 2026-06-24 18:30:00 +0100
 categories: [Langbal]
 tags: [Langbal, Taktik]
+image:
+  path: /assets/img/miniature/LIK25m.webp
+  alt: Følg med og lær, hvordan man kan spille en blød langbal og få en mulig dobbeltstilling.
 ---
 ## Den hurtige version
 Glem alt om at give en langbal en ordentlig en på frakken - spil den i stedet blødt til tempo, så hvid kun lige akkurat ruller igennem keglefeltet og stopper på den anden side. Det føles måske som det rene blasfemi, men det giver en suveræn dobbeltstilling og udviser fuldstændig kontrol.

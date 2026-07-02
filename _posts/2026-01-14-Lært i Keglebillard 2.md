@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #2"
 date: 2026-01-14 18:30:00 +0100
 categories: [Direktører]
 tags: [Direktører, Dobbelt højspids, Giver en direktør]
+image:
+  path: /assets/img/miniature/LIK2m.webp
+  alt: Følg med og lær, hvordan du også kan spille en dobblet højspids på en direktør, så du igen får et godt oplæg bagefter.
 ---
 Lad os fortsætte, hvor vi slap sidst!
 Forestil dig situationen igen: Du har enten fået en direktør, men linjen fra sidste uge med højspidsen går ikke gennem keglefeltet, så det dessin kan ikke spilles. Det kan også være, at du er kommet godt i gang med en serie og skal have bande, men du har ikke vinklen på hvid til at komme videre.

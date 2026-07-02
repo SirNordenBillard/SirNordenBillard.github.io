@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #9"
 date: 2026-03-04 18:30:00 +0100
 categories: [Rødbal]
 tags: [Rødbal]
+image:
+  path: /assets/img/miniature/LIK9m.webp
+  alt: Følg med og lær, hvordan du spiller den udviklende rødbal, som mange overser, men som kan give en dobbeltstilling.
 ---
 I denne uge skal vi se på en situation, som mange garanteret kender til. Jeg ved, at mange har stået i den - det kan jeg se rundt omkring i de forskellige klubber og i diverse billard streams på YouTube. Det sjove ved denne situation er, at de fleste, faktisk ikke ved, at de indirekte begår en fejl, når de spiller den. Lad os tage et kig på denne situation.
 

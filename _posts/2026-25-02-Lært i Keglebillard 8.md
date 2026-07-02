@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #8"
 date: 2026-02-25 18:30:00 +0100
 categories: [Rødbal]
 tags: [Rødbal]
+image:
+  path: /assets/img/miniature/LIK8m.webp
+  alt: Følg med og lær, hvordan du spiller rigtig skolebal, som også er brugbar for carambole spillere.
 ---
 I denne uge skal vi se på et simpelt rødbals-dessin. Nu sidder nogle nok og tænker: "Åh nej, rødt, det hader jeg at spille"... Ja, det gør jeg også, men vi er nødt til det af og til. Lad os derfor starte ud med et af de mest simple dessiner, vi kan spille rødt med, hvis intet andet er muligt.
 Ugens dessin er en rigtig "skolebal", der nok vil stå på en af de første sider, i lærebogen om hvordan man spiller rødt. Personligt var det faktisk det allerførste dessin, jeg overhovedet lærte på et billardbord. Det var min far, der viste det til mig den allerførste dag, jeg fik en kø i hånden.

@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #14"
 date: 2026-04-08 18:30:00 +0100
 categories: [Problemløsere]
 tags: [Spids, Godt at vide]
+image:
+  path: /assets/img/miniature/LIK14m.webp
+  alt: Følg med og lær, hvordan topeffekt kan bruges til at stoppe en bal ved at holde den i banden.
 ---
 I dag skal vi snakke om et dessin, der virkelig kan redde en fra et dårligt oplæg, og som det fremgår af illustrationen nedenfor, er det, hvad jeg kalder en n.-gangs spids. Mere om navnet længere nede. Der er faktisk ikke den store historie bag dessinet, udover at jeg en dag spillede med min gode ven Jimmy Lauridsen, og... ja, det oplæg på illustrationen og videoen nedenfor var det, han efterlod til mig efter han havde lavet stor serie! Det var ikke helt optimalt, så jeg spurgte ham, hvordan man løser sådan en situation i en kamp. Da Jimmy er en rigtig klog mand, havde han selvfølgelig en løsning klar, og den er virkelig en life-saver.
 

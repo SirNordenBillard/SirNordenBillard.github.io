@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #12"
 date: 2026-03-25 18:30:00 +0100
 categories: [1.-gangs spids]
 tags: [Giver en direktør, Underhåndsspids]
+image:
+  path: /assets/img/miniature/LIK12m.webp
+  alt: Følg med og lær, hvordan man spiller en underhåndsspids til et godt oplæg, når bal 3 er i samme ende af bordet.
 ---
 Som jeg vistnok kom til at tease lidt sidste gang, så er ugens dessin faktisk en opfølger til den underhåndsspids, vi gennemgik i sidste uge. I denne uge bliver det, som der står på illustrationen, en underhåndsspids med et twist.
 Til at begynde med skal jeg lige sige et par ting kort. For det første: Til jer, der udelukkende spiller skomar, er der en lille sektion specifikt til jer nederst i teksten med lidt ekstra info omkring det her dessin. For det andet: Har man ikke set sidste uges underhåndsspids, så læs også lige den igennem. Og sidder der nogen, som endnu ikke har prøvet den øvelse, jeg beskrev - [med at lægge dessinet op og rykke den røde en smule for at se, hvordan dessinet pludselig ændrer sig](/posts/Lært-i-Keglebillard-11/#prøv-at-rykke-den-røde) - så... HVAD VENTER I PÅ? Det bliver meget relevant her.

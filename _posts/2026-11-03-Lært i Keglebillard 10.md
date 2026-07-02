@@ -3,6 +3,9 @@ title: "Lært i Keglebillard #10"
 date: 2026-03-11 18:30:00 +0100
 categories: [1.-gangs spids]
 tags: [Giver en direktør, Spids]
+image:
+  path: /assets/img/miniature/LIK10m.webp
+  alt: Følg med og lær, hvordan man spiller en medløbsspids, der næsten giver en garanteret direktør bagefter.
 ---
 I denne uge skal vi, som titlen på illustrationen allerede indikerer, se på medløbsspidser. Jeg siger det med det samme: Ugens opslag er længere end normalt, da der er flere vinkler og gode pointer, der skal gennemgås. Jeg beklager længden på forhånd, men jeg håber, I bærer over med mig, når I selv først begynder at elske det her dessin. Det er et dessin, der er mange holdninger til - de fleste af dem nok negative. Jeg ser ofte folk, der fravælger dem, og årsagerne er mange. Det er alt fra folk, der ikke ved, hvad de skal gøre med dem og bare "forsøger noget" (hvilket resultatet ofte bærer præg af), til dem, der insisterer på, at det er en decideret "pisbal" og bare smækker til den - og så er der dem, der er direkte bange for at spille dem. Det er en skam, for det er faktisk et af de fedeste oplæg, man overhovedet kan få. Det er så fedt, at det kan ses som en direktør i forklædning! Nu tænker du nok: "En direktør? Kasper, du er skingrende sindssyg!", men nej, det er jeg ikke. Det er faktisk et af de mest ligetil dessiner overhovedet. Men lad mig først fortælle, hvorfor jeg kalder det en direktør.
 
