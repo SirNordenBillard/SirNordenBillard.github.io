@@ -1,6 +1,6 @@
 ---
 title: "Lært i Keglebillard #27"
-date: 2026-07-01 18:30:00 +0100
+date: 2026-07-08 18:30:00 +0100
 categories: [Rødbal]
 tags: [Rødbal, Udlæg]
 image:
@@ -26,9 +26,9 @@ Når man skal spille det her dessin, skal man vide et par vigtige ting først. A
 Men lad os se på det. Det er min personlige erfaring, at hvis man placerer rød i en lige linje ud fra 1. diamant efter hjørnet på kortbanden, og selvfølgelig den påkrævede mængde bag salvolinjen, så opnår man den letteste position at spille dessinet fra. Samtidig har det den fordel, at man kan placere rød stort set samme sted hver gang, hvilket gør dessinet nemmere at repetere - men igen, det er selvfølgelig bare min holdning. Man skal herefter bestemme, hvor man vil ramme den hvide, og det er der et lille trick til. For at gøre det, som jeg føler er lettest, skal man have sendt den røde ned halvvejs mellem diamanten ved hullet og 1. diamant efter hullet på langbanden. Det, man kan gøre her, er at træde til side og så finde det punkt på hvid, hvor tangentlinjen går ned i præcis det punkt, som den røde skal ramme på langbanden. Dette punkt på den hvide er, hvad vi skal sigte efter.
 
 <div class="d-flex flex-column align-items-center">
-  <img src="/assets/img/posts/Carambole-udlægget.png" class="w-100 shadow rounded" alt="Illustration af eksempel på den beskrevne carambole udlæg.">
+  <img src="/assets/img/posts/Carambole-udlægget.png" class="w-100 shadow rounded" alt="Illustration af eksempel på det beskrevne carambole udlæg.">
   <em class="d-block text-center mt-2 text-muted">
-    Illustration af eksempel på den beskrevne carambole udlæg.
+    Illustration af eksempel på det beskrevne carambole udlæg.
   </em>
 </div>
 
