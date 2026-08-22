@@ -2,7 +2,7 @@
 title: "Lært i Keglebillard #31"
 date: 2026-08-05 18:30:00 +0100
 categories: [Kvarter]
-tags: [Kvarter, Problemløsere, System]
+tags: [Kvarter, Fransk kvart, Problemløsere, System]
 image:
   path: /assets/img/miniature/LIK31m.webp
   alt: Følg med og lær, hvordan du kan spille en fransk kvart.

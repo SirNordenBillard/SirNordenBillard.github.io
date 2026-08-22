@@ -1,8 +1,8 @@
 ---
 title: "Lært i Keglebillard #13"
 date: 2026-04-01 18:30:00 +0100
-categories: [1.-gangs spids]
-tags: [Spids, Godt at vide]
+categories: [Spidser]
+tags: [Spidser, Godt at vide, 1.-gangs spids]
 image:
   path: /assets/img/miniature/LIK13m.webp
   alt: Følg med og lær, hvordan man spiller en hård 1.-gangs spids, der stejler tilbage og bliver spilbar igen.

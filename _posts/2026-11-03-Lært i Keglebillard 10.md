@@ -1,8 +1,8 @@
 ---
 title: "Lært i Keglebillard #10"
 date: 2026-03-11 18:30:00 +0100
-categories: [1.-gangs spids]
-tags: [Giver en direktør, Spids]
+categories: [Spidser]
+tags: [Giver en direktør, Spidser, 1.-gangs spids, Medløbsspids]
 image:
   path: /assets/img/miniature/LIK10m.webp
   alt: Følg med og lær, hvordan man spiller en medløbsspids, der næsten giver en garanteret direktør bagefter.

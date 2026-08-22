@@ -1,8 +1,8 @@
 ---
 title: "Lært i Keglebillard #11"
 date: 2026-03-18 18:30:00 +0100
-categories: [1.-gangs spids]
-tags: [Giver en direktør, Underhåndsspids]
+categories: [Spidser]
+tags: [Giver en direktør, Underhåndsspids, Spidser, 1.-gangs spids]
 image:
   path: /assets/img/miniature/LIK11m.webp
   alt: Følg med og lær, hvordan man spiller en underhåndsspids til et godt oplæg, når bal 3 er i modsatte ende af bordet.
