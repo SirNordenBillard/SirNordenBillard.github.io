@@ -2,7 +2,7 @@
 title: "Lært i Keglebillard #14"
 date: 2026-04-08 18:30:00 +0100
 categories: [Problemløsere]
-tags: [Spids, Godt at vide]
+tags: [Spidser, Godt at vide]
 image:
   path: /assets/img/miniature/LIK14m.webp
   alt: Følg med og lær, hvordan topeffekt kan bruges til at stoppe en bal ved at holde den i banden.
