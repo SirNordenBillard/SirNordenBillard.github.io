@@ -27,7 +27,7 @@ Inden man overhovedet tænker på at skulle spille spidsen, er der en fundamenta
 Men det er ikke den eneste ting, vi skal tænke på, inden vi lægger ud. Udlægsspidsen er i sig selv en relativt svær bal, men det er også en af de baller, der har en rigtig stor fordel: Det er nemlig den eneste bal, der ligger ens hver gang. Eller... så godt som; de hvide gør i hvert fald. Så er det bare lige den røde, der også skal på plads, men den må vi heldigvis selv placere, og der findes to geniale måder at gøre tingene på, så man opnår et næsten identisk setup hver gang. Der findes også flere, men disse to kan jeg selv stå inde for, så dem vil jeg gerne give jer med.
 
 <div class="d-flex flex-row justify-content-between gap-2">
-  <img src="/assets/img/posts/Jimmys-Metode.png" class="w-50 shadow rounded" alt="å figur 1 ses den samme situation som i første stød i videoen nedenfor.">
+  <img src="/assets/img/posts/Jimmys-Metode.png" class="w-50 shadow rounded" alt="På figur 1 ses den samme situation som i første stød i videoen nedenfor.">
   <img src="/assets/img/posts/Kaspers-Metode.png" class="w-50 shadow rounded" alt="Figur 2 viser det andet stød i videoen nedenfor.">
 </div>
 <em class="d-block text-center mt-2 text-muted">På figur 1 ses Jimmys metode til at placere den røde. Figur 2 ses Kaspers metode til at placere den røde.</em>
