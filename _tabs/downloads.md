@@ -58,6 +58,32 @@ order: 5
       </div>
     </div>
   </div>
+  <div class="col-md-6">
+    <div class="card h-100 shadow-sm border-0" style="border-radius: 12px; background-color: var(--card-bg); transition: transform 0.2s ease;">
+      <div class="card-body d-flex flex-column">
+        <div class="mb-3">
+          <div class="d-flex justify-content-between align-items-start">
+            <div>
+              <h3 class="card-title h4 mb-1" style="color: var(--link-color);">Dansk keglebillard - Den gode tilgang til bordet</h3>
+              <span class="badge badge-custom badge-download">Instruktionsmateriale</span>
+            </div>
+            <i class="fas fa-file-pdf fa-2x text-info opacity-50"></i>
+          </div>
+        </div>
+        <div class="custom-scroll mb-4" style="max-height: 150px; overflow-y: auto;">
+          <p class="card-text text-muted small pe-2">
+            Her kan du hente et praktisk undervisningsmateriale til kegle- og skomarbillard. Det er en samling af teori og praksis samlet og bearbejdet af Anders G. Christiani, som gennemgår grundlæggende teknik, taktiske overvejelser og spillets mentale aspekter - oplagt som inspiration og støtte til både nye spillere og instruktører.
+          </p>
+        </div>
+        <div class="mt-auto text-center">
+          <a href="https://onedrive.live.com/?id=%2Fpersonal%2F8913eafdc5ef0f7e%2FDocuments%2F%21DeltIndhold&listurl=%2Fpersonal%2F8913eafdc5ef0f7e%2FDocuments&e=5%3A4o9zRu&sharingv2=true&at=9&fromShare=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy84OTEzZWFmZGM1ZWYwZjdlL0lnQ3d1aWZBVm1GalJJZHJpNUhLaVdGQ0FiN1FTdnJfak1mbW8xenRURExBRVB3P2U9NTo0bzl6UnUmc2hhcmluZ3YyPXRydWUmZnJvbVNoYXJlPXRydWUmYXQ9OQ&ga=1" download class="btn btn-sm btn-download-outline w-100 rounded-pill shadow-sm mb-2">
+            <i class="fas fa-download me-2"></i> Download her (Anders's Onedrive)
+          </a>
+          <small class="text-muted" style="font-size: 0.65rem;">Licens: CC BY-NC-SA 4.0</small>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <style>
