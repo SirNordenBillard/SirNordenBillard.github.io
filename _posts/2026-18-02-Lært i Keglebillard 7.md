@@ -36,7 +36,7 @@ Voila! Du har lige fået en "direktør" ud af en blød 1.-gangs spids. Den kvikk
 {% include embed/youtube.html id='aftKb0PdxMc' %}
 {: .mt-4 }
 
-Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/aftKb0PdxMc)
+📱 [Mobilvenlig version](https://www.youtube.com/shorts/aftKb0PdxMc) · 📹 [Stødet set fra min synsvinkel](https://www.youtube.com/watch?v=GtCaQ8q4Ktg&t=192s)
 
 ---
 

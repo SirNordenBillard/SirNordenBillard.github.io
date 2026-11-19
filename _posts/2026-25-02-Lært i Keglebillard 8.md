@@ -32,7 +32,7 @@ Det var faktisk det! Der er ikke flere fancy ting i det dessin. Når man lige f�
 {% include embed/youtube.html id='aOLRBgEP5qs' %}
 {: .mt-4 }
 
-Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/aOLRBgEP5qs)
+📱 [Mobilvenlig version](https://www.youtube.com/shorts/aOLRBgEP5qs) · 📹 [Stødet set fra min synsvinkel](https://www.youtube.com/watch?v=GtCaQ8q4Ktg&t=221s)
 
 ---
 

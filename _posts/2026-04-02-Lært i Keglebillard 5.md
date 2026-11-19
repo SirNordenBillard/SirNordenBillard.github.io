@@ -31,7 +31,7 @@ Hvis så du sigter "fuld bal", det vil sige næsten lige på hvid, vil rød føl
 {% include embed/youtube.html id='8XmxGmqMNl0' %}
 {: .mt-4 }
 
-Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/8XmxGmqMNl0)
+📱 [Mobilvenlig version](https://www.youtube.com/shorts/8XmxGmqMNl0) · 📹 [Stødet set fra min synsvinkel](https://www.youtube.com/watch?v=GtCaQ8q4Ktg&t=135s)
 
 ---
 

@@ -32,7 +32,7 @@ Topeffekten hjælper med at sikre, at hvid faktisk rammer langbanden, idet høje
 {% include embed/youtube.html id='h7MKplAyczA' %}
 {: .mt-4 }
 
-Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/h7MKplAyczA)
+📱 [Mobilvenlig version](https://www.youtube.com/shorts/h7MKplAyczA) · 📹 [Stødet set fra min synsvinkel](https://www.youtube.com/watch?v=GtCaQ8q4Ktg&t=105s)
 
 ---
 

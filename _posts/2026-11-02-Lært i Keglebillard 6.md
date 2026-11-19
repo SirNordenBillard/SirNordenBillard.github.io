@@ -42,7 +42,7 @@ Hvid går ind i en normal tværbal, som vi forventer. Rød derimod vil søge ove
 {% include embed/youtube.html id='02JAakxDgIw' %}
 {: .mt-4 }
 
-Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/02JAakxDgIw)
+📱 [Mobilvenlig version](https://www.youtube.com/shorts/02JAakxDgIw) · 📹 [Stødet set fra min synsvinkel](https://www.youtube.com/watch?v=GtCaQ8q4Ktg&t=161s)
 
 ---
 

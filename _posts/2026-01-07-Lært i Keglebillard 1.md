@@ -36,7 +36,7 @@ Her støder du den hvide ned mod det hjørnehul, der er længst væk. Sigt efter
 {% include embed/youtube.html id='rT3VO7JV3fM' %}
 {: .mt-4 }
 
-Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/rT3VO7JV3fM)
+📱 [Mobilvenlig version](https://www.youtube.com/shorts/rT3VO7JV3fM) · 📹 [Stødet set fra min synsvinkel](https://www.youtube.com/watch?v=GtCaQ8q4Ktg&t=8s)
 
 ---
 

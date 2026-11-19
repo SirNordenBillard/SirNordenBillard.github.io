@@ -32,7 +32,7 @@ Som vist på figur 2 går grundlinjen fra første diamant efter hjørnehullet p�
 {% include embed/youtube.html id='pEE0RQ6b09U' %}
 {: .mt-4 }
 
-Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/pEE0RQ6b09U)
+📱 [Mobilvenlig version](https://www.youtube.com/shorts/pEE0RQ6b09U) · 📹 [Stødet set fra min synsvinkel](https://www.youtube.com/watch?v=GtCaQ8q4Ktg&t=71s)
 
 ---
 

@@ -32,7 +32,8 @@ Bruger vi denne linje og parallelforskyder den til midten af hvid, kan vi se, at
 {% include embed/youtube.html id='wzghWahqp8s' %}
 {: .mt-4 }
 
-Mobil-venlig version kan findes ved at [TRYKKE HER](https://www.youtube.com/shorts/wzghWahqp8s)
+📱 [Mobilvenlig version](https://www.youtube.com/shorts/wzghWahqp8s) · 📹 [Stødet set fra min synsvinkel](https://www.youtube.com/watch?v=GtCaQ8q4Ktg&t=41s)
+
 
 ---
 
